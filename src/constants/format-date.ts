@@ -1,0 +1,1 @@
+export enum fmday { 'DD/MM/YYYY' }
